@@ -3,13 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/DSAMONDAY024/problems/RFTRSC
-// Solved on: 2026-10-12T14:33:09.747Z
+// Solved on: 2026-10-12T15:36:37.663Z
 
-6 6
-1 2
-2 3
-3 6
-1 4
-4 6
-2 5
-1 6
+// source not captured automatically - open the solution page and copy it manually
