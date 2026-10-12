@@ -1,0 +1,8 @@
+// Problem: HUNDW
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/DSAMONDAY024/problems/HUNDW
+// Solved on: 2026-10-12T15:52:53.011Z
+
+# cook your dish here
