@@ -3,10 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/DSAMONDAY024/problems/SWSHI
-// Solved on: 2026-10-12T16:04:25.184Z
+// Solved on: 2026-10-12T16:14:21.954Z
 
-2
-6 8
-5 2 1 3 2 6
-4 5
-3 3 3 3
+// source not captured automatically - open the solution page and copy it manually
