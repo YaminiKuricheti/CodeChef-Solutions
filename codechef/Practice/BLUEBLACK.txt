@@ -1,0 +1,8 @@
+// Problem: BLUEBLACK
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START260D/problems/BLUEBLACK
+// Solved on: 2026-10-14T15:46:26.428Z
+
+# cook your dish here
