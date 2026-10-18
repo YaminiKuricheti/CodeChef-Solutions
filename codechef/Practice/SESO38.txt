@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH4/problems/SESO38
-// Solved on: 2026-10-17T16:09:35.129Z
+// Solved on: 2026-10-18T16:44:59.579Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
