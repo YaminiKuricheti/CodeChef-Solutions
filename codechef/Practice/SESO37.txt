@@ -1,0 +1,8 @@
+// Problem: SESO37
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH7/problems/SESO37
+// Solved on: 2026-10-21T15:56:42.889Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
