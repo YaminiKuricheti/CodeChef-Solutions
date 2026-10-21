@@ -3,6 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START261D/problems/BETWEEN
-// Solved on: 2026-10-21T15:22:06.894Z
+// Solved on: 2026-10-21T15:27:21.671Z
 
-1 5
+// source not captured automatically - open the solution page and copy it manually
