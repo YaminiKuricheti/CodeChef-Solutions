@@ -3,14 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START261D/problems/EXSHAKE
-// Solved on: 2026-10-21T15:29:16.990Z
+// Solved on: 2026-10-21T15:46:40.184Z
 
-4
-4 10
-3 1 4 2
-3 0
-2 5 3
-5 45
-2 2 2 2 2
-3 0
-4 1 1
+// source not captured automatically - open the solution page and copy it manually
