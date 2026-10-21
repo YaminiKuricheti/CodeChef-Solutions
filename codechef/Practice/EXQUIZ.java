@@ -3,12 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START261D/problems/EXQUIZ
-// Solved on: 2026-10-21T15:47:06.827Z
+// Solved on: 2026-10-21T15:54:39.614Z
 
-6
-10 7
-10 9
-10 40
-7 0
-1 3
-1 5
+// source not captured automatically - open the solution page and copy it manually
