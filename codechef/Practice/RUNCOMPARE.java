@@ -10,7 +10,7 @@
 	print(ans)
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays/ARRAYSPRO/problems/RUNCOMPARE?tab=solution
-// Solved on: 2026-10-23T15:56:30.158Z
+// Solved on: 2026-10-23T15:57:43.358Z
 
 import java.util.Scanner;
 
