@@ -1,0 +1,25 @@
+// Problem: PROBLEM LINK:
+// Platform: codechef
+// Language: for _ in range(int(input())):
+    n, x = map(int, input().split())
+    a = list(map(int, input().split()))
+    b = list(map(int, input().split()))
+    ans = 0
+    for i in range(n):
+        if a[i] >= x: ans += b[i]
+    print(ans)
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/arrays/ARRAYSPRO/problems/KITCHENCOST?tab=solution
+// Solved on: 2026-10-23T15:53:24.158Z
+
+class Solution {
+    public int compute(int n, int x, int[] a, int[] b) {
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            if (a[i] >= x) {
+                ans += b[i];
+            }
+        }
+        return ans;
+    }
+}
