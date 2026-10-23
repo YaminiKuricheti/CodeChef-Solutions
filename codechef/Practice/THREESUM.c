@@ -29,7 +29,7 @@
     }
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays/ARRAYSPRO/problems/THREESUM?tab=solution
-// Solved on: 2026-10-23T16:32:38.572Z
+// Solved on: 2026-10-23T16:33:48.166Z
 
     public static List<List<Integer>> findZeroSumTriplets(int[] nums) {
         Arrays.sort(nums);
