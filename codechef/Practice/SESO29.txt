@@ -1,0 +1,8 @@
+// Problem: SESO29
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH8/problems/SESO29
+// Solved on: 2026-10-24T07:03:31.765Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
