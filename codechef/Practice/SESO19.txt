@@ -1,0 +1,8 @@
+// Problem: SESO19
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH5/problems/SESO19
+// Solved on: 2026-10-24T06:58:51.812Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
