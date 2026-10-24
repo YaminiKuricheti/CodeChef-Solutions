@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH9/problems/SESO33
-// Solved on: 2026-10-24T07:05:39.299Z
+// Solved on: 2026-10-24T07:05:46.501Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
