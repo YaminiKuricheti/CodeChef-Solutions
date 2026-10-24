@@ -19,8 +19,8 @@
     return count; 
 }
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/hashing/HASH04/problems/HASHP03?tab=solution
-// Solved on: 2026-10-11T16:30:14.916Z
+// URL: https://www.codechef.com/practice/course/arrays/ARRAYSPRO/problems/HASHP03?tab=solution
+// Solved on: 2026-10-24T06:30:01.413Z
 
 public int subarraySum(int[] nums, int n, int k) {
     int count = 0, sum = 0;
