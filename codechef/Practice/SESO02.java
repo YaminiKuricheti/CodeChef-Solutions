@@ -1,6 +1,11 @@
 // Problem: SESO02
 // Platform: codechef
-// Language: import java.util.*;
+// Language: Java​
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH1/problems/SESO02?tab=statement
+// Solved on: 2026-10-24T06:45:19.167Z
+
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -24,8 +29,3 @@ public class Main {
         }
     }
 }
-// Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH1/problems/SESO02?tab=Help
-// Solved on: 2026-10-24T06:43:41.965Z
-
-// source not captured automatically - copy it from the editor and use Manual Push
