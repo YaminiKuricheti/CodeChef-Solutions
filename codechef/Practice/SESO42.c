@@ -16,7 +16,7 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH6/problems/SESO42?tab=solution
-// Solved on: 2026-10-20T18:05:21.913Z
+// Solved on: 2026-10-24T07:01:40.150Z
 
 public static void insertionSort(int[] arr) {
     int n = arr.length;
