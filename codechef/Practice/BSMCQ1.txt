@@ -1,0 +1,8 @@
+// Problem: BSMCQ1
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/binary-search-new/BINARYSP01/problems/BSMCQ1
+// Solved on: 2026-10-27T16:28:42.788Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
