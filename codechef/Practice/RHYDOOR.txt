@@ -1,0 +1,8 @@
+// Problem: RHYDOOR
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START262D/problems/RHYDOOR
+// Solved on: 2026-10-28T14:58:29.758Z
+
+# cook your dish here
