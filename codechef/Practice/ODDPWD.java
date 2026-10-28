@@ -3,6 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START262D/problems/ODDPWD
-// Solved on: 2026-10-28T14:50:53.800Z
+// Solved on: 2026-10-28T14:57:09.758Z
 
-ORDER
+// source not captured automatically - open the solution page and copy it manually
