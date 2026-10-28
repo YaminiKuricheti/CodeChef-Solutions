@@ -1,0 +1,8 @@
+// Problem: ALARMM
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START262D/problems/ALARMM
+// Solved on: 2026-10-28T15:07:13.369Z
+
+# cook your dish here
