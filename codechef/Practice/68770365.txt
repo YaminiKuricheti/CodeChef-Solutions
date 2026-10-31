@@ -1,0 +1,8 @@
+// Problem: Air Hockey
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/68770365
+// Solved on: 2026-10-31T16:05:48.158Z
+
+// source not captured automatically - open the solution page and copy it manually
