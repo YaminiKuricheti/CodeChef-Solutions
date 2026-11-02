@@ -3,6 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/DSAMONDAY027/problems/VISA01
-// Solved on: 2026-11-02T15:26:44.852Z
+// Solved on: 2026-11-02T15:35:18.777Z
 
-# cook your dish here
+// source not captured automatically - open the solution page and copy it manually
