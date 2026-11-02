@@ -1,0 +1,8 @@
+// Problem: AFLMON
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/DSAMONDAY027/problems/AFLMON
+// Solved on: 2026-11-02T15:11:20.299Z
+
+# cook your dish here
