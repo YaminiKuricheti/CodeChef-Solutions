@@ -3,10 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/DSAMONDAY027/problems/COONO
-// Solved on: 2026-11-02T14:53:15.888Z
+// Solved on: 2026-11-02T14:59:27.319Z
 
-4
-12 8 20
-7 6 12
-0 15 15
-50 60 100
+// source not captured automatically - open the solution page and copy it manually
